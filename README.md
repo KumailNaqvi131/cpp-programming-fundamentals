@@ -1,21 +1,75 @@
 # C++ Programming Fundamentals
 
-This repository contains beginner-friendly C++ programs that helped me build problem-solving skills and understand programming fundamentals.
+## Overview
+
+This repository contains my C++ practice programs completed while learning the fundamentals of programming. The exercises focus on building problem-solving skills, understanding programming logic, and strengthening core C++ concepts.
 
 ## Topics Covered
 
-- Pattern Printing
-- Loops
-- Conditional Statements
-- Functions
-- Number Theory
-- Basic Logic Building
+* ⭐ Star and number pattern printing
+* 🔁 Loops (`for`, `while`, `do-while`)
+* 🔀 Conditional statements (`if`, `else`, `switch`)
+* 🧠 Logic-building problems
+* 🔢 Number-based programs
+* 🧮 Functions
+* 📚 Basic arrays and strings *(if included)*
 
-## Technologies
+## Folder Structure
 
-- C++
-- GCC / g++
+```text
+cpp-programming-fundamentals/
+├── patterns/
+└── README.md
+```
+
+## Sample Programs
+
+* Pyramid 
+* Reverse Pyramid 
+* Right Angle Triangle
+* Reverse Right Angle Triangle
+* Diamond 
+* Hollow Pyramid 
+* Reverse Hollow Pyramid 
+* Hollow Diamond
+* Bisected Diamond (horizontal)
+* Bisected Diamond (vertical)
+* Bisected Diamond (both directions)
+* Hollow Arrow (right)
+* Hollow Arrow (bisected right)
+* Hollow Arrow (left)
+* Hollow Arrow (bisected left)
+* Christmas Tree (partial)
+* Christmas Tree (full)
+* Star of David 
+* Diamond (bisected half filled lower)
+* Diamond (bisected half filled upper)
+* Right Angle Triangle (mirror image)
+* Right Angle Triangle (reverse mirror image)
+* Arrow (right filled)
+* Arrow (left filled)
+* Hollow Star of David (top and bottom)
+* Hollow Star of David
+* Triangle (hollow)
+* Triangle (hollow reverse)
+* Triangle (hollow mirror image)
+* Triangle (hollow reverse mirror image)
+* Pyramid (bisected)
+* Pyramid (reverse bisected) 
+
+## Technologies Used
+
+* C++
+* GCC / g++
+* Dev C++
 
 ## Purpose
 
-This repository documents my learning journey and serves as a collection of foundational C++ exercises.
+The goal of this repository is to document my learning journey and improve my understanding of C++ programming through consistent practice. It serves as a collection of foundational programs that helped me develop logical thinking and problem-solving skills back in my early programming journey.
+
+## Author
+
+**Kumail Naqvi**
+
+GitHub: https://github.com/your-kumailnaqvi131
+
