@@ -19,6 +19,7 @@ This repository contains my C++ practice programs completed while learning the f
 ```text
 cpp-programming-fundamentals/
 ├── patterns/
+├── data_structures/
 └── README.md
 ```
 
@@ -71,5 +72,5 @@ The goal of this repository is to document my learning journey and improve my un
 
 **Kumail Naqvi**
 
-GitHub: https://github.com/your-kumailnaqvi131
+GitHub: https://github.com/kumailnaqvi131
 
