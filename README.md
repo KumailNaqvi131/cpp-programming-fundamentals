@@ -20,6 +20,7 @@ This repository contains my C++ practice programs completed while learning the f
 cpp-programming-fundamentals/
 ├── patterns/
 ├── data_structures/
+├── sorting/
 └── README.md
 ```
 
